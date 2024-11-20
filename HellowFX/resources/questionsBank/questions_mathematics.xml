@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>What is the derivative of sin(x)?</questionString>
+        <option>-cos(x)</option>
+        <option answer="true">cos(x)</option>
+        <option>-sin(x)</option>
+        <option>sin(x)</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>What is the sum of 7 and 9?</questionString>
+        <option>14</option>
+        <option answer="true">16</option>
+        <option>18</option>
+        <option>15</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>What is the square root of 144?</questionString>
+        <option>10</option>
+        <option answer="true">12</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Mathematics</topic>
+        <questionString>What is the integral of e^x dx?</questionString>
+        <option>e^x</option>
+        <option answer="true">e^x + C</option>
+        <option>ln(x) + C</option>
+        <option>x^2 + C</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>What is the value of pi to 4 decimal places?</questionString>
+        <option>3.12</option>
+        <option>3.1416</option>
+        <option>3.1412</option>
+        <option answer="true">3.1416</option>
+        <option>3.14</option>
+        <option>3.143</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Mathematics</topic>
+        <questionString>If x=3, then the expression x^6+5^x equals 1001.</questionString>
+        <option>true</option>
+        <option answer="true">false</option>
+
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>What is the perimeter of a rectangle with length 6 cm and width 4 cm?</questionString>
+        <option>22 cm</option>
+        <option answer="true">20 cm</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>What is the solution to the equation 2x + 5 = 15?</questionString>
+        <option>x = 3</option>
+        <option answer="true">x = 5</option>
+        <option>x = 10</option>
+        <option>x = 0</option>
+    </question>
+</questions>
+
+

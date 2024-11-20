@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Which of the following is an example of a metaphor?</questionString>
+        <option>"She runs as fast as lightning."</option>
+        <option answer="true">"The world is a stage."</option>
+        <option>"He is like a lion."</option>
+        <option>"They are as different as night and day."</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>What is the plural form of "mouse"?</questionString>
+        <option>mouses</option>
+        <option answer="true">mice</option>
+        <option>mouse's</option>
+        <option>meese</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Which word means "to formally give up a position or responsibility"?</questionString>
+        <option>abdicate</option>
+        <option answer="true">resign</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>English</topic>
+        <questionString>In Shakespeare's works, which literary device is most commonly used in the line: "Shall I compare thee to a summer's day?"</questionString>
+        <option>Alliteration</option>
+        <option answer="true">Simile</option>
+        <option>Irony</option>
+        <option>Hyperbole</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Which of the following terms describes the repetition of consonant sounds at the beginning of words?</questionString>
+        <option>Onomatopoeia</option>
+        <option>Assonance</option>
+        <option>Metaphor</option>
+        <option answer="true">Alliteration</option>
+        <option>Synecdoche</option>
+        <option>Simile</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which of the following is a synonym for "happy"?</questionString>
+        <option>sad</option>
+        <option answer="true">joyful</option>
+        <option>angry</option>
+        <option>tired</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>What is the meaning of the idiom "spill the beans"?</questionString>
+        <option>To waste something</option>
+        <option answer="true">To reveal a secret</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>English</topic>
+        <questionString>Which of the following terms is used for a sentence that makes a statement?</questionString>
+        <option>Interrogative</option>
+        <option answer="true">Declarative</option>
+        <option>Exclamatory</option>
+        <option>Imperative</option>
+    </question>
+</questions>
+

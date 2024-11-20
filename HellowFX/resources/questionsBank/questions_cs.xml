@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following algorithms is used to find the shortest path in a graph?</questionString>
+        <option>QuickSort</option>
+        <option answer="true">Dijkstra's Algorithm</option>
+        <option>Depth-First Search</option>
+        <option>MergeSort</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>What does HTML stand for?</questionString>
+        <option>Hypertext Machine Language</option>
+        <option>High-Level Markup Language</option>
+        <option answer="true">Hypertext Markup Language</option>
+        <option>Hyperlink and Text Markup Language</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>Recursion is implemented using a stack. (True/False)</questionString>
+        <option answer="true">True</option>
+        <option>False</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Computer Science</topic>
+        <questionString>The time complexity of the best-case scenario for the QuickSort algorithm is O(n log n). (True/False)</questionString>
+        <option answer="true">True</option>
+        <option>False</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following is a characteristic of a heap data structure?</questionString>
+        <option>It is always balanced.</option>
+        <option answer="true">The parent node is always greater than or equal to (or less than or equal to) its child nodes.</option>
+        <option>It is implemented using a linked list.</option>
+        <option>It does not allow duplicate values.</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>What is the primary function of an operating system?</questionString>
+        <option>To compile code</option>
+        <option answer="true">To manage hardware and software resources</option>
+        <option>To execute SQL queries</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>MongoDB is a relational database management system (RDBMS). (True/False)</questionString>
+        <option>True</option>
+        <option answer="true">False</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Computer Science</topic>
+        <questionString>The CAP theorem defines Consistency, Availability, and Partition Tolerance as its key properties. (True/False)</questionString>
+        <option answer="true">True</option>
+        <option>False</option>
+    </question>
+</questions>

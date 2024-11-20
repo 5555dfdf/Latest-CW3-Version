@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which type of amplifier is known for high efficiency but may introduce distortion?</questionString>
+        <option>Class A</option>
+        <option answer="true">Class D</option>
+        <option>Class B</option>
+        <option>Class AB</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the SI unit of electric resistance?</questionString>
+        <option>Watt</option>
+        <option answer="true">Ohm</option>
+        <option>Volt</option>
+        <option>Ampere</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>In digital logic, what does a NOT gate do?</questionString>
+        <option>It performs an AND operation.</option>
+        <option answer="true">It inverts the input signal.</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the main purpose of a phase-locked loop (PLL) in electronics?</questionString>
+        <option>To amplify a signal</option>
+        <option answer="true">To synchronize the phase of an output signal with an input signal</option>
+        <option>To measure resistance</option>
+        <option>To stabilize voltage</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which material is commonly used as the base substrate in integrated circuits?</questionString>
+        <option>Copper</option>
+        <option>Germanium</option>
+        <option answer="true">Silicon</option>
+        <option>Gallium Arsenide</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the frequency range of human hearing?</questionString>
+        <option>10 Hz to 10 kHz</option>
+        <option answer="true">20 Hz to 20 kHz</option>
+        <option>50 Hz to 15 kHz</option>
+        <option>100 Hz to 30 kHz</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>In an RLC circuit, what does the "L" stand for?</questionString>
+        <option>Load</option>
+        <option answer="true">Inductance</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following is true about a Zener diode?</questionString>
+        <option>It allows current to flow only in one direction.</option>
+        <option answer="true">It can regulate voltage in the reverse breakdown region.</option>
+        <option>It is primarily used as a signal rectifier.</option>
+        <option>It cannot operate at high frequencies.</option>
+    </question>
+</questions>
